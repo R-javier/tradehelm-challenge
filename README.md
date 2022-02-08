@@ -1,7 +1,7 @@
-✨Tradehelm Challenge
+#✨Tradehelm Challenge
 🛒 Una aplicación sencilla para anotar todas las cosas que no debes olvidar del mercado.
 
-💻 Technology
+##💻 Technology
 - React 
 - Chakra-ui
 - LocalStorage
